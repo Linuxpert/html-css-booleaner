@@ -1,0 +1,11 @@
+#pattern{
+background-image: url(../img/pattern.png);
+background-color: royalblue;
+
+  
+}
+
+#logo{
+    width: 200px;
+    height: 200px;
+}
