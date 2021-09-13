@@ -1,16 +1,25 @@
 #pattern{
 background-image: url(../img/pattern.png);
 background-color: royalblue;
+width: 1015px;
+height: 100px;
+display: inline-block;
 
   
 }
 
 #logo{
     width: 200px;
-    height: 200px;
+    height: 145px;
 }
 
 #sottotitolo{
     color: rgb(141, 141, 141);
-    
+    height: fit-content;
+
 }
+
+#titolo{
+    height: 50px;
+}
+
